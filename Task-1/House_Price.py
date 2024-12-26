@@ -8,7 +8,7 @@ from sklearn.preprocessing import StandardScaler, LabelEncoder
 import matplotlib.pyplot as plt
 
 # Load dataset
-data = pd.read_csv("D:/ML_Intern_Task/Task-1/Housing.csv")
+data = pd.read_csv("Task-1/Housing.csv")
 
 # Display dataset structure
 print("First 5 rows of the dataset:")
